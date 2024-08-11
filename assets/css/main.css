@@ -3196,6 +3196,8 @@ footer .bottom-footer .social-links {
 .card span {
     color: #000;
     font-size: 0.9rem;
+    padding: 8px;
+    text-align: center;
 }
 
 .rating {
@@ -3203,7 +3205,7 @@ footer .bottom-footer .social-links {
     justify-content: center;
 }
 
-.star {
+.card .rating .star {
     font-size: 20px;
     color: gold;
     margin: 0 2px;
